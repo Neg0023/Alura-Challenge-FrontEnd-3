@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+:root {
+    --bg-white : #F5F5F5;
+    --bg-bottom : #EAF2FD;
+    --blue-text : #2A7AE4;
+    --price-tag : #464646;
+    --primary-button : #2A7AE4;
+    --primary-button-hover : #5595E9;
+}
+
+*{
+    box-sizing: border-box;
+    font-family: 'Raleway', sans-serif;
+}
